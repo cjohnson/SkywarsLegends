@@ -1,0 +1,4 @@
+name: SkywarsLegends
+version: @version@
+main: com.cjohnson.skywarslegends.Skywarslegends
+api-version: 1.16
